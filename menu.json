@@ -1,0 +1,26 @@
+{
+"menu": {
+    "today": {
+        "breakfast": {
+			"first": "Cafe con pastas",
+			"second": "Mini bocadillo de tortilla y bebida"
+		},
+        "lunch": {
+			"first": "Sopa de pescado o Ensalada de frutos del bosque",
+			"second": "Butifarra con judías o Canelones",
+			"dessert": "Crema catalana o Fruta del tiempo"
+		}
+    },
+    "tomorrow": {
+        "breakfast": {
+			"first": "Cafe con pastas",
+			"second": "Mini bocadillo de jamon y bebida"
+		},
+        "lunch": {
+			"first": "Ensalada del día o Calamares a la romana",
+			"second": "Pollo asado con patatas o Paella",
+			"dessert": "Flan casero o Macedònia"
+		}
+    }
+}
+}
